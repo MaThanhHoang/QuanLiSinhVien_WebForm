@@ -1,0 +1,134 @@
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\ApplicationInsights.config
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\roslyn\csc.exe
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\roslyn\vbc.exe
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\quanlythongtinSV.dll.config
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\quanlythongtinSV.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\quanlythongtinSV.pdb
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.Web.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.Web.xml
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.dll
+C:\Users\nguye\OneDrive\Desktop\CN-NET\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.pdb
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\ApplicationInsights.config
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\quanlythongtinSV.dll.config
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\quanlythongtinSV.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\quanlythongtinSV.pdb
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.csproj.CopyComplete
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.dll
+C:\Users\DELL\Downloads\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.pdb
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\ApplicationInsights.config
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\roslyn\csc.exe
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\roslyn\vbc.exe
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\quanlythongtinSV.dll.config
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\quanlythongtinSV.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\quanlythongtinSV.pdb
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.Web.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.Web.xml
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.dll
+C:\Users\nguye\OneDrive\Desktop\Mau bao cao\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.pdb
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\ApplicationInsights.config
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\roslyn\csc.exe
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\roslyn\vbc.exe
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\quanlythongtinSV.dll.config
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\quanlythongtinSV.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\quanlythongtinSV.pdb
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.Web.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.Web.xml
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.dll
+C:\Users\nguye\OneDrive\Desktop\baocaomau\quanlythongtinSV\quanlythongtinSV\obj\Debug\quanlythongtinSV.pdb

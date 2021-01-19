@@ -1,0 +1,79 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="client.master.cs" Inherits="quanlythongtinSV.client" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta charset="utf-8" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <style>
+        .footer {
+            background: #2E2E2E;
+            position: relative;
+            color: #ff0000;
+            height: 30px;
+            padding-top: 10px;
+            padding-top: 150px;
+            margin-top: 30px;
+            text-align: right;
+            clear: both;
+        }
+
+        .para{
+            position:absolute;
+            text-align: right;
+            clear: both;
+            color: #ffffff;
+            font-size: 20px;
+        }
+        form{
+            background-color: #EEEEEE;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="home.aspx">Home</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li><a href="QuanLyGV.aspx">Quản lý giảng viên</a></li>
+                <li><a href="QuanLySV.aspx">Quản lý sinh viên</a></li>
+                <li><a href="QuanLyLop.aspx">Quản lý Lớp</a></li>
+                <li><a href="thongkeAD.aspx">Thống kê</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+
+                <li><a href="dangnhap.aspx"><span class="glyphicon glyphicon-log-in"></span>Logout</a></li>
+            </ul>
+        </div>
+    </nav>
+    <form id="form1" runat="server">
+        <div id="dv1">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <footer class="footer">
+        <div class="para">
+            Nguyễn Tấn Lên<br />
+            Nguyễn cc<br />
+            Nguyễn cl
+                
+        </div>
+    </footer>
+
+
+</body>
+</html>
